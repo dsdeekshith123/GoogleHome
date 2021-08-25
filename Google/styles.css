@@ -1,0 +1,248 @@
+nav{
+    margin-top: 20px;
+    text-align: right;
+    margin-right: 70px;
+    
+}
+li{
+    display: inline;
+}
+#gg{
+    margin: 15px;
+    text-decoration: none;
+    color: rgb(37, 35, 35);
+    list-style-type: none;
+    font-size: 0.9rem;
+}
+#gg1
+{
+    text-decoration: none;
+    color: rgb(37, 35, 35);
+    font-size: 0.9rem;
+}
+#gg2{   
+    text-decoration: none;
+}
+#img1{
+    position: absolute;
+    margin-top: 2px;
+    margin-left: 20px;
+    max-width: 30px;
+}
+#img2{
+    margin-top: 80px;
+    margin-left: 40%;
+}
+input{
+    margin-top: 30px;
+    margin-left: 30%;
+    width: 40%;
+    height: 40px;
+    border: 1px solid rgb(214, 207, 207);
+    border-radius: 24px;
+    box-shadow: 1px solid;
+    
+}
+i{
+    position: absolute;
+    margin-top: 35px;
+    margin-left: -50px;
+}
+#inn{
+    font-size: 1rem;
+    background: url(images/search.png) no-repeat scroll 10px;
+    
+    
+}
+input:hover{
+    box-shadow: 1px  1px #c9c4c4;
+}
+input:focus{
+    border: 1px solid rgb(199, 207, 199);
+    box-shadow: 0 0 3px rgb(199, 207, 199);
+    outline-offset: 0px;
+    outline: none;
+    padding-left: 45px;
+}
+button{
+    margin: 10px;
+}
+#butt1:hover{
+    border: 1px solid rgb(199, 207, 199);
+}
+#butt1:focus{
+    border: 1px solid rgb(43, 133, 235);
+}
+
+
+#butt2:hover{
+    border: 1px solid rgb(199, 207, 199);
+}
+#butt2:focus{
+    border: 1px solid rgb(43, 133, 235);
+}
+
+.butt{
+    margin-top: 10px;
+    padding: 20px;
+    margin-left: 520px;
+}
+#butt1{
+    width: 120px;
+    height: 30px;
+    border: none;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    background-color: white;
+}
+#butt2{
+    width: 120px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+    background-color: white;
+}
+.gg3{
+    margin-top: -30px;
+    margin-left: 520px;
+    width: 400px;
+    display: block;
+}
+#gg4{
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+#gg4:hover{
+    text-decoration: underline;
+}
+.gg5{
+    margin-top: 40px;
+    margin-left: 400px;
+}
+#gg6{
+    text-decoration: none;
+    margin: 4px;
+}
+#gg6:hover{
+    text-decoration: underline;
+}
+a{
+    font-size: 0.8rem;
+
+}
+.gg8{
+    margin-top:0;
+    border-top: 1px solid #cdcdcf;
+}
+.gg9{
+    margin-top: 12%;
+    color: #979292;
+    margin-left: 15px;
+    font-size: 1.1rem;
+}
+footer{
+    margin-bottom: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#gg7{
+    text-decoration: none; 
+    margin: 15px;
+    font-size: 1rem;
+    color: #979292;
+}
+#gg7:hover{
+    text-decoration: underline;
+}
+#gg10{
+    position: relative;
+    display: inline;
+    margin-left: 690px;
+    text-decoration: none;
+    font-size: 1rem;
+    color: #979292;
+}
+#gg10:hover{
+    text-decoration: underline;
+}
+#gg11{
+    position: relative;
+    display: inline;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 1rem;
+    color: #979292;
+}
+#gg11:hover{
+    text-decoration: underline;
+}
+#gg12{
+    position: relative;
+    display: inline;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 1rem;
+    color: #979292;
+}
+#gg12:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+.dropbtn {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 8px;
+    margin-left: 12px;
+    font-size: 16px;
+    border: none;
+    text-decoration: none;
+    color: #979292;
+  }
+  
+  .dropup {
+    position: relative;
+    display: inline-block;
+    
+  }
+  
+  .dropup-content {
+    display: none;
+    position: absolute;
+    bottom: 30px;
+    right: 5px;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border: 1px solid black;
+    
+  }
+  
+  .dropup-content a {
+    color: black;
+    padding: 16px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 0.9rem;
+    
+  }
+  
+.dropup-content a:hover{
+      background-color: #ddd
+      
+}
+  
+  .dropup:hover .dropup-content {
+    display: block;
+    
+  }
+  
+  .dropup:hover .dropbtn {
+    background-color: #fafbfc;
+    text-decoration: underline;
+    
+  }
